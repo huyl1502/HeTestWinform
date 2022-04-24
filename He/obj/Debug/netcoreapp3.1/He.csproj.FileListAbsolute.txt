@@ -1,0 +1,16 @@
+C:\Users\huyl1\OneDrive\Desktop\He\He\bin\Debug\netcoreapp3.1\He.exe
+C:\Users\huyl1\OneDrive\Desktop\He\He\bin\Debug\netcoreapp3.1\He.deps.json
+C:\Users\huyl1\OneDrive\Desktop\He\He\bin\Debug\netcoreapp3.1\He.runtimeconfig.json
+C:\Users\huyl1\OneDrive\Desktop\He\He\bin\Debug\netcoreapp3.1\He.runtimeconfig.dev.json
+C:\Users\huyl1\OneDrive\Desktop\He\He\bin\Debug\netcoreapp3.1\He.dll
+C:\Users\huyl1\OneDrive\Desktop\He\He\bin\Debug\netcoreapp3.1\He.pdb
+C:\Users\huyl1\OneDrive\Desktop\He\He\obj\Debug\netcoreapp3.1\He.csproj.AssemblyReference.cache
+C:\Users\huyl1\OneDrive\Desktop\He\He\obj\Debug\netcoreapp3.1\He.csproj.GenerateResource.cache
+C:\Users\huyl1\OneDrive\Desktop\He\He\obj\Debug\netcoreapp3.1\He.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huyl1\OneDrive\Desktop\He\He\obj\Debug\netcoreapp3.1\He.AssemblyInfoInputs.cache
+C:\Users\huyl1\OneDrive\Desktop\He\He\obj\Debug\netcoreapp3.1\He.AssemblyInfo.cs
+C:\Users\huyl1\OneDrive\Desktop\He\He\obj\Debug\netcoreapp3.1\He.csproj.CoreCompileInputs.cache
+C:\Users\huyl1\OneDrive\Desktop\He\He\obj\Debug\netcoreapp3.1\He.dll
+C:\Users\huyl1\OneDrive\Desktop\He\He\obj\Debug\netcoreapp3.1\He.pdb
+C:\Users\huyl1\OneDrive\Desktop\He\He\obj\Debug\netcoreapp3.1\He.genruntimeconfig.cache
+C:\Users\huyl1\OneDrive\Desktop\He\He\obj\Debug\netcoreapp3.1\He.App.resources
